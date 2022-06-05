@@ -7,8 +7,7 @@ Creating several types of visualizations to tell a compelling story about the da
 
 ### From Summary DateFrame 
 
-![this is an image](https://github.com/Orangexinlan/PyBer_Analysis/blob/e6e08d8db2f0cf24c23d34f723be84c054df9d2a/analysis/Summary%20DF.png)
-
+![this is an image]
 After merging two data sets, we got the data sets for Total Number of Rides , Dirvers and Fares, as well as the average fares for drivers and rides, which falls on the different types of cities.
 
 As the data showed in the output, we can see that in Urban 
